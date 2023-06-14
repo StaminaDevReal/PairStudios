@@ -1,2 +1,2 @@
-# PairStudios.github.io
+# PairStudios
 Pair Studios Homepage
